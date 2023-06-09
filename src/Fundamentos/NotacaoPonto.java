@@ -14,8 +14,7 @@ public class NotacaoPonto {
         String x = "Leo".toUpperCase();
         System.out.println(x);
 
-        String y = "Bom dia X"
-                .replace("X", "Gui")
+        String y = "MASSIFICAÇÃO DO USO DE FERRAMENTAS DE IA PARA AS INDÚSTRIAS DE TRANSFORMAÇÕES: QUÍMICAS E DE ALIMENTOS"
                 .toLowerCase()
                 .concat("!!!");
         System.out.println(y);
